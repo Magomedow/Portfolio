@@ -1,0 +1,53 @@
+body {
+   margin: 0;
+   background-repeat: no-repeat;
+   overflow-y: hidden;
+   overflow-x: hidden;
+   background-color: #3f0d12;
+
+}
+
+.header {
+   max-width: 1200px;
+   margin: 0 auto;
+}
+.header__text {
+}
+h1 {
+   font-size: 50px;
+   color: aliceblue;
+}
+.source {
+   font-size: 30px;
+   color: #fff;
+   text-decoration: none;
+   margin-right: 50px;
+   transition: 0.2s;
+}
+
+.source:hover {
+   color: #a80300;
+}
+
+p {
+   color: #fff;
+   font-size: 25px;
+}
+
+.span {
+   color:#a80300;
+}
+
+
+.social {
+   position: relative;
+   left: 1000px;
+   top: 700px;
+   overflow-y: hidden;
+   overflow-x: hidden;
+   padding: 15px;
+
+}
+.source1 {
+   margin: 30px;
+}
